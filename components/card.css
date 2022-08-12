@@ -1,0 +1,35 @@
+.card {
+  top: 0;
+  left: 0;
+  border: 2px solid turquoise;
+  padding: 2px;
+  margin-right: 8px;
+  width: 100px;
+  min-height: 120px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+h1 {
+  font-size: 12px;
+  line-height: 10px;
+}
+p {
+  font-size: 8px;
+  font-weight: 200;
+  line-height: 14px;
+  text-align: left;
+  margin: 4px;
+  color: dimgray;
+}
+img {
+  height: 65px;
+}
+
+button {
+  border: none;
+  outline-width: 0px;
+  font-size: 10px;
+  background-color: salmon;
+  padding: 4px 12px;
+  border-radius: 4px;
+  color: seashell;
+}
